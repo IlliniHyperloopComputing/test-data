@@ -1,0 +1,32 @@
+#2017-11-16
+test_1  1/2inch 18:37:46 50.2V #bad, rig moved
+test_2  1/2inch 19:15:10 51.5500  103 50.1V #stopped because of vibration
+test_3  1/2inch 19:20:04 41.3751  106 49.9V #good
+test_4  1/2inch 19:31:06 105.9941 196 49.7V #
+test_5  1/2inch 19:35:41                    #With steel
+test_6  1/4inch 19:49:31 39.3499  123 49.3V
+test_7  RPMONLY 20:03:43
+test_8  1/4inch 20:15:02 28.0200  120 48.9V #Not centered
+test_9  1/4inch 20:23:04 125.0600 219 48.3V 
+test_10 1/4inch 20:32:33 50.1V              #With steel
+test_11 1/8inch 20:40:30 29.1384  78  49.8V 
+test_12 1/8inch 20:47:01 25.0880  78  49.3V 
+test_14 1/8inch 20:49:16 48.9V #With Steel, I think this one we stopped early because of burning
+test_14 1/2inch 21:04:59 48.3V
+test_15 1/8inch 21:09:22 48.2V
+test_16 1/8inch 21:11:11 48.0V #With Steel
+
+#2017-11-27
+test_17 1/8inch 19:54:52      #No force data
+test_18 1/8inch 19:58:17 44.7268  90   #With steel
+test_19 3/8inch 20:13:39 110.0639 190       #
+test_20 5/8inch 20:26:37 95.9393  215 
+test_21 3/4inch 20:34:31 49.4186  155
+test_22 7/8inch 20:42:53 24.1299  170
+test_23 1/1inch 20:51:19 32.8899  221
+test_24 1/4inch 20:03:46 57.3061  204  #Temperature test. Got to 800 (ish) RPM, and then recorded temp
+
+#2017-11-29
+#much better RPM data. 
+test_25 1/4inch 19:07:44 57.9013 140
+test_26 3/8inch 19:16:45 38.0699 92
