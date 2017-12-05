@@ -30,3 +30,13 @@ test_24 1/4inch 20:03:46 57.3061  204  #Temperature test. Got to 800 (ish) RPM, 
 #much better RPM data. 
 test_25 1/4inch 19:07:44 57.9013 140
 test_26 3/8inch 19:16:45 38.0699 92
+
+#2017-12-04
+#better RPM data and 16-bit power data and wax temperature
+test_27 1/1inch 18:29:45 63.4995  123 50.240V 23471 #RPM is possibly bad
+test_28 1/1inch 18:41:43 41.1924  106 50.148V 23400 #RPM is possibly bad
+test_29 1/1inch 19:06:42 32.1625  129 50.046V 23389 #RPM good
+test_30 3/4inch 19:18:33 35.8220  166 49.901V 23324
+test_31 3/4inch 19:27:06 59.0746  184 49.640V 23202
+test_32 1/4inch 19:41:02 44.0817  159 49.390V 23086
+test_33 1/8inch 20:03:10 68.4849  134 50.298V 23521
