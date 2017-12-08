@@ -60,3 +60,6 @@
 #############
 #2017-12-07
 #############
+34  stability_test1inch 21:04:03 60 190
+35  stability_test0.75inch 21:20:33 56.7212 165
+36  stability_test0.5inch  21:36:22 55 132
