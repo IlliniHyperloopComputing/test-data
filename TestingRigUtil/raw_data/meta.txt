@@ -65,15 +65,24 @@
 36  stability_test0.5inch  21:36:22 55 132
 
 
+#############
+#2017-12-08
+#############
 37  test37_0.5     12:16:49  37 132
 
+
+#############
+#2017-12-09
+#############
+
+#"Left" is the motor mounted on the arm
+#"right" is the motor mounted on the ground
 
 38  dual38_1_inch_right 16:07:30 50 
 39  dual38_1_inch_left  16:07:30 50 
 
 40  dual40_1_inch_right  16:10:41 16  150
 41  dual40_1_inch_left   16:10:41 16  150
-
 
 42  dual42_1_inch_right 16:23:51 150 250
 43  dual42_1_inch_left  16:23:51 150 250
@@ -90,8 +99,8 @@
 50  dual50_0.5_inch_right 17:19:17 56 167
 51  dual50_0.5_inch_left 17:19:17  56 167
 
-52  far_away_right  17:25:43 32 257
-53  far_away_left   17:25:43 32 257
+52  test52_far_away_right  17:25:43 32 257
+53  test52_far_away_left   17:25:43 32 257
 
 54  test54_no_alum_5000rpm 17:36:56 50 315
 
