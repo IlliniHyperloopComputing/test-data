@@ -144,13 +144,13 @@
 #RPM ballanced
 #left disk moved a little farther back
 #####USE THIS######
-66  dual_66_0.75_inch_right 19:31:35 35 130 
-67  dual_66_0.75_inch_left 19:31:35  35 130
+66  dual_66_0.75_inch_right 19:31:35 35 129
+67  dual_66_0.75_inch_left 19:31:35  35 129
 
 #RPM ballanced
 #####USE THIS######
-68  dual_68_0.5_inch_right 19:40:03 65 171
-69  dual_68_0.5_inch_left  19:40:03 65 171
+68  dual_68_0.5_inch_right 19:40:03 67 171
+69  dual_68_0.5_inch_left  19:40:03 67 171
 
 #RPM ballanced
 #moved left motor away from the aluminum just a little
@@ -162,30 +162,30 @@
 #moved left motor back in just a little
 #no slip
 #####USE THIS######
-72  dual_72_0.5_inch_right 19:52:32 45 197
-73  dual_72_0.5_inch_left  19:52:32 45 197
+72  dual_72_0.5_inch_right 19:52:32 47 197
+73  dual_72_0.5_inch_left  19:52:32 47 197
 
 #RPM ballanced
 #ESC for left motor got pretty hot 
 #no slip
 #####USE THIS######
-74  dual_74_0.375_inch_right 20:16:28 90 222
-75  dual_74_0.375_inch_left  20:16:28 90 222
+74  dual_74_0.375_inch_right 20:16:28 91 222
+75  dual_74_0.375_inch_left  20:16:28 91 222
 
 #RPM ballanced
 #might be a little close (thousandths of an inch)
 #new batteries here as 
 #OVER
 #####USE THIS######
-76  dual_76_0.375_inch_right 20:53:30 20 51
-77  dual_76_0.375_inch_left  20:53:30 20 51
+76  dual_76_0.375_inch_right 20:53:30 20 50
+77  dual_76_0.375_inch_left  20:53:30 20 50
 
 #Large side of 0.375 inches
 #far side of 0.375 inches
 ##PRECISION
 #####USE THIS######
-78  dual_78_0.375_inch_right  21:12:48 155 233
-79  dual_78_0.375_inch_left   21:12:48 155 233
+78  dual_78_0.375_inch_right  21:12:48 156 233
+79  dual_78_0.375_inch_left   21:12:48 156 233
 
 #near .375. actual precision
 # DESYNC
@@ -197,8 +197,8 @@
 #went over, then at higher RPM left motor moved away, causing DESYNC
 #at time 128 it really moved away
 #####USE THIS######
-82  dual_82_0.375_inch_right  22:00:08 57 128
-83  dual_82_0.375_inch_left   22:00:08 57 128
+82  dual_82_0.375_inch_right  22:00:08 58 128
+83  dual_82_0.375_inch_left   22:00:08 58 128
 
 #No fan on one of the ESCs
 84  dual_84_0.25_inch_right  22:20:52 145 185
