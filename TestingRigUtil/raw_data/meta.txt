@@ -104,7 +104,7 @@
 
 54  test54_no_alum_5000rpm 17:36:56 50 315
 
-55  test55_0.25_inch_5000rpm 17:57:20 237 415
+55  test55_0.25_inch_5000rpm 17:57:20 240 405
 
 #############
 #2017-12-11
@@ -217,3 +217,27 @@
 #####USE THIS######
 90 dual_90_0.25_inch_right  22:59:48 34 90
 91 dual_90_0.25_inch_left   22:59:48 34 90
+
+
+
+
+
+
+#############
+#2017-12-16
+#############
+#SWOD testing
+
+
+#no magnet all
+92 test_92_wheel_of_death_no_magnet 16:30:23 800 1290
+
+#magnet start at ~3inches
+#magnet at 1 inch
+93 test_93_wheel_of_death_1_inch 17:26:36 510 650
+#at like 536 it was fully extended
+
+#magnet start at ~2inches
+#magnet at 1/2 inch
+94 test_94_wheel_of_death_0.5_inch 17:48:02 450 505
+#466 it was fully extended
