@@ -49,12 +49,12 @@
 #better RPM data and 16-bit power data and wax temperature
 #test number | test name | file name time | data start | data end  
 
-27  test27_1        18:29:45  63.4995  123  
-28  test28_1        18:41:43  41.1924  106  
-29  test29_1        19:06:42  32.1625  129  
-30  test30_0.75     19:18:33  35.8220  166 
-31  test31_0.75     19:27:06  59.0746  184 
-32  test32_0.25     19:41:02  44.0817  159 
+27  test27_1        18:29:45  64  115
+28  test28_1        18:41:43  41.1924  92
+29  test29_1        19:06:42  32.1625  105 
+30  test30_0.75     19:18:33  35.8220  140 
+31  test31_0.75     19:27:06  59.0746  135 
+32  test32_0.25     19:41:02  44.0817  125 
 33  test33_0.125    20:03:10  68.4849  134 
 
 #############
@@ -78,37 +78,37 @@
 #"Left" is the motor mounted on the arm
 #"right" is the motor mounted on the ground
 
+# data is not good
 38  dual38_1_inch_right 16:07:30 50 
 39  dual38_1_inch_left  16:07:30 50 
 
+#Force data is not that good
 40  dual40_1_inch_right  16:10:41 16  150
 41  dual40_1_inch_left   16:10:41 16  150
 
+#Force data isn't very good
 42  dual42_1_inch_right 16:23:51 150 250
 43  dual42_1_inch_left  16:23:51 150 250
 
-44  dual44_0.5_inch_right  16:41:55 56 165
-45  dual44_0.5_inch_left  16:41:55 56 165
+#okay data
+44  dual44_0.5_inch_right  16:41:55 60 145
+45  dual44_0.5_inch_left  16:41:55  60 145
 
 #Data isn't very good 46  single_motor_only_right_on   16:59:12 1 1
 #47  single_motor_only_left_off  16:59:12 1 1
 
-48  dual48_0.5_inch_right 17:07:26 67 115
-49  dual48_0.5_inch_left 17:07:26 67 115
+48  dual48_0.5_inch_right 17:07:26 70 112
+49  dual48_0.5_inch_left 17:07:26  70 112
 
-50  dual50_0.5_inch_right 17:19:17 56 167
-51  dual50_0.5_inch_left 17:19:17  56 167
+50  dual50_0.5_inch_right 17:19:17 60 160
+51  dual50_0.5_inch_left 17:19:17  60 160
 
 52  test52_far_away_right  17:25:43 32 257
 53  test52_far_away_left   17:25:43 32 257
 
 54  test54_no_alum_5000rpm 17:36:56 50 315
 
-<<<<<<< HEAD
 55  test55_0.25_inch_5000rpm 17:57:20 240 405
-=======
-55  test55_0.25_inch_5000rpm 17:57:20 237 415
->>>>>>> 4d429c789d5bd1406681278fda76b5b3e5c705ce
 
 #############
 #2017-12-11
@@ -222,13 +222,10 @@
 90 dual_90_0.25_inch_right  22:59:48 34 90
 91 dual_90_0.25_inch_left   22:59:48 34 90
 
-
-
 #############
 #2017-12-16
 #############
 #SWOD testing
-
 
 #no magnet all
 92 test_92_wheel_of_death_no_magnet 16:30:23 800 1290
