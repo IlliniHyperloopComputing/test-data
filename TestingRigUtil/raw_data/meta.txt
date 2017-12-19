@@ -239,3 +239,14 @@
 #magnet at 1/2 inch
 94 test_94_wheel_of_death_0.5_inch 17:48:02 450 505
 #466 it was fully extended
+
+#############
+#2017-12-17
+#############
+95 test_95_wheel_of_death_no_magnet 19:18:42 250 450
+
+#at like time 370
+96 test_96_wheel_of_death_0.5_inch 19:32:25 350 400
+
+#1/4_plus_lessthan_1/8 19:44:11
+97 test_97_wheel_of_death_0.3125_inch 19:44:11  220 260
