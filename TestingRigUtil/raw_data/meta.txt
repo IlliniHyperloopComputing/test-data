@@ -39,8 +39,8 @@
 ##2017-11-29
 #############
 ##much better RPM data. 
-#25  test_25 1/4inch 19:07:44 57.9013 140
-#26  test_26 3/8inch 19:16:45 38.0699 92
+25  test25_0.25 19:07:44 58 140
+26  test26_0.375 19:16:45 39 92
 #
 #
 #############
@@ -201,26 +201,26 @@
 #went over, then at higher RPM left motor moved away, causing DESYNC
 #at time 128 it really moved away
 #####USE THIS######
-82  dual_82_0.375_inch_right  22:00:08 58 128
-83  dual_82_0.375_inch_left   22:00:08 58 128
+82  dual82_0.375_inch_right  22:00:08 58 128
+83  dual82_0.375_inch_left   22:00:08 58 128
 
 #No fan on one of the ESCs
-84  dual_84_0.25_inch_right  22:20:52 145 185
-85  dual_84_0.25_inch_left   22:20:52 145 185
+84  dual84_0.25_inch_right  22:20:52 145 185
+85  dual84_0.25_inch_left   22:20:52 145 185
 
 # 0.25 inches, accurate to 15 thou
 #####USE THIS######
-86 dual_86_0.25_inch_right 22:48:15 70 120
-87 dual_87_0.25_inch_left  22:48:15 70 120
+86 dual86_0.25_inch_right 22:48:15 70 120
+87 dual87_0.25_inch_left  22:48:15 70 120
 
 
 #####USE THIS######
-88 dual_88_0.25_inch_right  22:54:34 41 57
-89 dual_88_0.25_inch_left   22:54:34 41 57
+88 dual88_0.25_inch_right  22:54:34 41 57
+89 dual88_0.25_inch_left   22:54:34 41 57
 
 #####USE THIS######
-90 dual_90_0.25_inch_right  22:59:48 34 90
-91 dual_90_0.25_inch_left   22:59:48 34 90
+90 dual90_0.25_inch_right  22:59:48 34 90
+91 dual90_0.25_inch_left   22:59:48 34 90
 
 #############
 #2017-12-16
@@ -228,25 +228,25 @@
 #SWOD testing
 
 #no magnet all
-92 test_92_wheel_of_death_no_magnet 16:30:23 800 1290
+92 wheel92_no_magnet 16:30:23 800 1290
 
 #magnet start at ~3inches
 #magnet at 1 inch
-93 test_93_wheel_of_death_1_inch 17:26:36 510 650
+93 wheel93_1 17:26:36 510 650
 #at like 536 it was fully extended
 
 #magnet start at ~2inches
 #magnet at 1/2 inch
-94 test_94_wheel_of_death_0.5_inch 17:48:02 450 505
+94 wheel94_0.5 17:48:02 450 505
 #466 it was fully extended
 
 #############
-#2017-12-17
+#2017-12-18
 #############
-95 test_95_wheel_of_death_no_magnet 19:18:42 250 450
+95 wheel95_no_magnet 19:18:42 250 450
 
 #at like time 370
-96 test_96_wheel_of_death_0.5_inch 19:32:25 350 400
+96 wheel95_0.5 19:32:25 350 400
 
 #1/4_plus_lessthan_1/8 19:44:11
-97 test_97_wheel_of_death_0.3125_inch 19:44:11  220 260
+97 wheel96_0.3125 19:49:03  220 260
