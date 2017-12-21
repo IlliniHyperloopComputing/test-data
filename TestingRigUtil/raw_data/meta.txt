@@ -116,86 +116,86 @@
 
 #with ESC in wax 
 #needs to add force data
-56  dual_56_1_inch_right 18:39:39   140 200
-57  dual_56_1_inch_left 18:39:39   140 200
+56  dual56_1_inch_right 18:39:39   140 200
+57  dual56_1_inch_left 18:39:39   140 200
 
 #without ESC in wax
 #to 2000 RPM
 #left motor might be a little closer this run
 #RPM Ballanced
 #####USE THIS######
-58  dual_58_1_inch_right 18:54:55 110 190
-59  dual_58_1_inch_left  18:54:55 110 190
+58  dual58_1_inch_right 18:54:55 110 190
+59  dual58_1_inch_left  18:54:55 110 190
 
 #without ESC in wax
 #1100 RPM
 #RPM imbalance
-60  dual_60_1_inch_right 19:08:26 50 120
-61  dual_61_1_inch_left  19:08:26 50 120
+60  dual60_1_inch_right 19:08:26 50 120
+61  dual61_1_inch_left  19:08:26 50 120
 
 #RPM ballanced
 #left motor a little bit closer
 #####USE THIS######
-62  dual_62_1_inch_right 19:19:16 43 145
-63  dual_62_1_inch_left  19:19:16 43 145
+62  dual62_1_inch_right 19:19:16 43 145
+63  dual62_1_inch_left  19:19:16 43 145
 
 #RPM ballanced
 #left disk just a bit closer
 #####USE THIS######
-64  dual_64_0.75_inch_right 19:25:59 56 167
-65  dual_64_0.75_inch_left 19:25:59  56 167
+64  dual64_0.75_inch_right 19:25:59 56 167
+65  dual64_0.75_inch_left 19:25:59  56 167
 
 #RPM ballanced
 #left disk moved a little farther back
 #####USE THIS######
-66  dual_66_0.75_inch_right 19:31:35 35 129
-67  dual_66_0.75_inch_left 19:31:35  35 129
+66  dual66_0.75_inch_right 19:31:35 35 129
+67  dual66_0.75_inch_left 19:31:35  35 129
 
 #RPM ballanced
 #####USE THIS######
-68  dual_68_0.5_inch_right 19:40:03 67 171
-69  dual_68_0.5_inch_left  19:40:03 67 171
+68  dual68_0.5_inch_right 19:40:03 67 171
+69  dual68_0.5_inch_left  19:40:03 67 171
 
 #RPM ballanced
 #moved left motor away from the aluminum just a little
 #SLIP at 12
-70  dual_70_0.5_inch_right 19:46:14 30 140
-71  dual_70_0.5_inch_left  19:46:14 30 140
+70  dual70_0.5_inch_right 19:46:14 30 140
+71  dual70_0.5_inch_left  19:46:14 30 140
 
 #RPM ballanced
 #moved left motor back in just a little
 #no slip
 #####USE THIS######
-72  dual_72_0.5_inch_right 19:52:32 47 197
-73  dual_72_0.5_inch_left  19:52:32 47 197
+72  dual72_0.5_inch_right 19:52:32 47 197
+73  dual72_0.5_inch_left  19:52:32 47 197
 
 #RPM ballanced
 #ESC for left motor got pretty hot 
 #no slip
 #####USE THIS######
-74  dual_74_0.375_inch_right 20:16:28 91 222
-75  dual_74_0.375_inch_left  20:16:28 91 222
+74  dual74_0.375_inch_right 20:16:28 91 222
+75  dual74_0.375_inch_left  20:16:28 91 222
 
 #RPM ballanced
 #might be a little close (thousandths of an inch)
 #new batteries here as 
 #OVER
 #####USE THIS######
-76  dual_76_0.375_inch_right 20:53:30 20 50
-77  dual_76_0.375_inch_left  20:53:30 20 50
+76  dual76_0.375_inch_right 20:53:30 20 50
+77  dual76_0.375_inch_left  20:53:30 20 50
 
 #Large side of 0.375 inches
 #far side of 0.375 inches
 ##PRECISION
 #####USE THIS######
-78  dual_78_0.375_inch_right  21:12:48 156 233
-79  dual_78_0.375_inch_left   21:12:48 156 233
+78  dual78_0.375_inch_right  21:12:48 156 233
+79  dual78_0.375_inch_left   21:12:48 156 233
 
 #near .375. actual precision
 # DESYNC
 #left motor moved away from actual position
-80  dual_78_0.375_inch_right  21:55:50 95
-81  dual_78_0.375_inch_left   21:55:50 96
+80  dual78_0.375_inch_right  21:55:50 95
+81  dual78_0.375_inch_left   21:55:50 96
 
 #near .375. actual precision
 #went over, then at higher RPM left motor moved away, causing DESYNC
