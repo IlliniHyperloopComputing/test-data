@@ -253,5 +253,5 @@
 
 98 wheel98_0.25 14:43:04 860  900 
 
-99 5000_rpm_vibration_test 15:08:14 0 0
+99 test99_vibration_test 15:08:14 50 250
 
