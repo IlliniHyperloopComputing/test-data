@@ -94,8 +94,9 @@
 44  dual44_0.5_inch_right  16:41:55 60 145
 45  dual44_0.5_inch_left  16:41:55  60 145
 
-#Data isn't very good 46  single_motor_only_right_on   16:59:12 1 1
-#47  single_motor_only_left_off  16:59:12 1 1
+#Data isn't very good 
+46  single_motor_only_right_on   16:59:12 32 59
+47  single_motor_only_left_off  16:59:12 32 59
 
 48  dual48_0.5_inch_right 17:07:26 70 112
 49  dual48_0.5_inch_left 17:07:26  70 112
@@ -130,8 +131,8 @@
 #without ESC in wax
 #1100 RPM
 #RPM imbalance
-60  dual60_1_inch_right 19:08:26 50 120
-61  dual61_1_inch_left  19:08:26 50 120
+60  dual60_1_inch_right 19:08:26 50 130
+61  dual61_1_inch_left  19:08:26 50 130
 
 #RPM ballanced
 #left motor a little bit closer
@@ -159,8 +160,8 @@
 #RPM ballanced
 #moved left motor away from the aluminum just a little
 #SLIP at 12
-70  dual70_0.5_inch_right 19:46:14 30 140
-71  dual70_0.5_inch_left  19:46:14 30 140
+70  dual70_0.5_inch_right 19:46:14 30 190
+71  dual70_0.5_inch_left  19:46:14 30 190
 
 #RPM ballanced
 #moved left motor back in just a little
@@ -194,8 +195,8 @@
 #near .375. actual precision
 # DESYNC
 #left motor moved away from actual position
-80  dual78_0.375_inch_right  21:55:50 95
-81  dual78_0.375_inch_left   21:55:50 96
+80  dual80_0.375_inch_right  21:55:50 95
+81  dual80_0.375_inch_left   21:55:50 96
 
 #near .375. actual precision
 #went over, then at higher RPM left motor moved away, causing DESYNC
